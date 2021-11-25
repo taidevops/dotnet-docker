@@ -35,6 +35,3 @@ image=$1
 
 echo "Pulling Docker image $image"
 execute docker pull $image
-do
-	#statements
-done
